@@ -25,3 +25,4 @@ Additionally, I've created a video here as a guide for editing: https://www.yout
 
 ### You can now admire your fully deployed portfolio!! :)
 
+### Okay, let's go!
